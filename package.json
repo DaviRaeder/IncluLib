@@ -1,0 +1,48 @@
+{
+  "name": "inclulib",
+  "version": "1.0.0",
+  "description": "An open-source, framework-agnostic accessibility library built with TypeScript. Add dynamic, customizable accessibility features to any web app — React, Vue, or plain HTML. 100% free, inclusive-first, and licensed under MPL-2.0.",
+  "keywords": [
+    "accessibility",
+    "inclusive",
+    "typescript",
+    "ui",
+    "include",
+    "lib",
+    "inclusao",
+    "open-source",
+    "web-development",
+    "customizable",
+    "widgets",
+    "assistive-tech",
+    "inclusive-design",
+    "inclusive"
+  ],
+  "homepage": "https://github.com/DaviRaeder/IncluLib#readme",
+  "bugs": {
+    "url": "https://github.com/DaviRaeder/IncluLib/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaviRaeder/IncluLib.git"
+  },
+  "license": "MPL-2.0",
+  "author": "DaviZZolla <davivirtue@gmail.com>",
+  "type": "commonjs",
+  "types": "dist/index.d.ts",
+  "main": "dist/index.js",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "eslint": "^9.25.1",
+    "prettier": "^3.5.3",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.2",
+    "vitest": "^3.1.2"
+  }
+}
